@@ -1,0 +1,5 @@
+﻿  1.cpp
+E:\220508-吴昊宇\实验三\1\1.cpp(10,13): warning C4244: “=”: 从“long double”转换到“int”，可能丢失数据
+E:\220508-吴昊宇\实验三\1\1.cpp(24,16): warning C4244: “return”: 从“long double”转换到“int”，可能丢失数据
+E:\220508-吴昊宇\实验三\1\1.cpp(28): warning C4715: “f1”: 不是所有的控件路径都返回值
+  1.vcxproj -> E:\220508-吴昊宇\实验三\1\x64\Debug\1.exe
